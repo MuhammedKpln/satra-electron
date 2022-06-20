@@ -26,7 +26,7 @@
     "electron-builder": "^22.14.13",
     "electron-reloader": "^1.2.1",
     "eslint": "^7.27.0",
-    "typescript": "^4.3.4"
+    "typescript": "^4.7.4"
   },
   "build": {
     "appId": "com.satratrafikskola.prov",
