@@ -22,7 +22,7 @@
     "@typescript-eslint/parser": "^4.26.0",
     "copyfiles": "^2.4.1",
     "cross-env": "^7.0.3",
-    "electron": "^16.0.8",
+    "electron": "^19.0.10",
     "electron-builder": "^22.14.13",
     "electron-reloader": "^1.2.1",
     "eslint": "^7.27.0",
